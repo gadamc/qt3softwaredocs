@@ -48,12 +48,12 @@ to the NIDAQ.
 
 The following packages have been developed
 
-* [qt3-utils](https://github.com/gadamc/qt3utils)
-* [qt3rfsynthcontrol](https://github.com/gadamc/qt3RFSynthControl)
-* [qcsapphire](https://github.com/gadamc/qcsapphire)
-* [nipiezeojenapy](https://github.com/gadamc/nipiezeojenapy)
+* [qt3-utils](https://github.com/qt3uw/qt3utils)
+* [qt3rfsynthcontrol](https://github.com/qt3uw/qt3RFSynthControl)
+* [qcsapphire](https://github.com/qt3uw/qcsapphire)
+* [nipiezeojenapy](https://github.com/qt3uw/nipiezeojenapy)
 * [pulseblaster](https://github.com/zeeshawnkazi/pulseblaster)
-* [qt3laserpowercontrol](https://github.com/gadamc/qt3laserpowercontrol)
+* [qt3laserpowercontrol](https://github.com/qt3uw/qt3laserpowercontrol)
 
 ### QT3-Utils
 
